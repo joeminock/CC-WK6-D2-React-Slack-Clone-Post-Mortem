@@ -1,0 +1,17 @@
+########## React Slack Clone - Post-mortem ##########
+
+1. What things did you think went well on the project?
+
+A. In the initial group creation of the project, I felt much more comfortable and confident following along and in a few cases moving ahead of the group in creation of the codebase. After consulting an additional react learning resource on Friday evening, I grew even more comfortable with the react framework. 
+
+-----
+
+2. What has been frustrating about the project?
+
+A. I did not initially understand props and state as well as I thought I did. As such, I had to essentially relearn what they do... and amd still working through this. Further, I'm still trying to fully grasp all of the javascript concepts learned in weeks 2-4, so my level of confidence in creating net-new codebase is low. Further, due to unexpected events, I was required to be in Denver most of Sunday which killed a whole day of study time and work. 
+
+-----
+
+3. How would you do things differently next time to avoid this frustration?
+
+A. I'm trying to do my best to absorb more material during class time through searches of current tasks on Google, Stack Overflow, etc as a means of establishing a broader understanding of concepts. Additionally, I'm continuing to attend Dave's class in the evenings so that I can be further exposed to the concepts that have already been learned and apply them in a more remedial capacity. 
